@@ -1,5 +1,0 @@
-﻿  Backgammon.cpp
-C:\Users\ПК\source\repos\Backgammon\Backgammon.cpp(194,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\ПК\source\repos\Backgammon\Backgammon.cpp(205,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\ПК\source\repos\Backgammon\Backgammon.cpp(790,21): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
-  Backgammon.vcxproj -> C:\Users\ПК\source\repos\Backgammon\x64\Debug\Backgammon.exe
