@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\source\\repos\\Backgammon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2214B72F-DBC9-427D-B275-B7073A4271DD}|Backgammon.vcxproj|C:\\Users\\\u041F\u041A\\source\\repos\\Backgammon\\Backgammon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2214B72F-DBC9-427D-B275-B7073A4271DD}|Backgammon.vcxproj|solutionrelative:Backgammon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backgammon.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\source\\repos\\Backgammon\\Backgammon.cpp",
+              "RelativeDocumentMoniker": "Backgammon.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\Backgammon\\Backgammon.cpp",
+              "RelativeToolTip": "Backgammon.cpp",
+              "ViewState": "AgIAABIDAAAAAAAAAAAkwDoDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T19:24:08.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
